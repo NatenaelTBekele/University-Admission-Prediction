@@ -5,9 +5,9 @@ The world is developing rapidly and continuously looking for the best knowledge 
 The current admission dataset was created for the prediction of admissions into the University of California, Los Angeles (UCLA). It was built to help students in shortlisting universities based on their profiles. The predicted output gives them a fair idea about their chances of getting accepted.
 
 # Objective
-# We need to build a classification model using neural networks to predict a student's chances of admission into UCLA.
+We need to build a classification model using neural networks to predict a student's chances of admission into UCLA.
 
-Data Dictionary
+# Data Dictionary
 The dataset contains several features which are considered important during the application for Masters Programs. The features included are:
 
 - GRE Scores: (out of 340)
